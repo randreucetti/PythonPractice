@@ -20,3 +20,8 @@ for element in mylist:
   
 duplicateList = ["Linux", "Linux", "Windows"]
 print list(set(duplicateList))
+
+nums = range(10)
+
+for num in nums:
+    print num
